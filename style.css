@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+}
+aside{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    
+}
+figure{
+    border: 4px solid black;
+    box-shadow: 6px 6px 10px black;
+    max-width: 305px;
+    margin: 2% auto;
+}
+figcaption{
+    padding: 2%;
+    border-top: 4px solid black;
+    text-align: center;
+}
+img{
+    float: center;
+}
